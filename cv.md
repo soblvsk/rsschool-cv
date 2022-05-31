@@ -26,7 +26,6 @@ A novice programmer with a great desire and motivation to achieve great results 
 
 ---
 
----
 
 ## Code example:
 
@@ -46,7 +45,7 @@ int summation(int num){
 
 ## Education:
 
-**Russia, Krasnoyarsk, Siberian State University of Science and Technology named after Academician M.F. Reshetnev** Software engineering, Development and maintenance of information systems and web applications
+**Russia, Krasnoyarsk, Siberian State University of Science and Technology named after Academician M.F. Reshetnev**  Software engineering, Development and maintenance of information systems and web applications
 
 ---
 

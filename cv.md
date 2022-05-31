@@ -13,3 +13,15 @@
 A novice programmer with a great desire and motivation to achieve great results in this area. I have been programming for 2 years. I tried different directions, stopped frontend development at the moment.
 
 ---
+
+## Skills:
+
+- **C++**
+- **QT**
+- **Python**
+- **HTML,CSS**
+- **JavaScript (basic knowledge)**
+- **Erlang, Prolog (basic knowledge)**
+- **SQL Server**
+
+---

@@ -52,5 +52,5 @@ int summation(int num){
 
 ## Languages:
 
-**Russian** Native
+**Russian** Native  
 **English** Technical
